@@ -3,7 +3,7 @@ import { logo } from '../assets';
 const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
-      <nav className="flex justify-between items-center w-full mb-10 pt-3">
+      <nav className="flex justify-between items-center w-full mb-10 pt-6">
         <div className=" flex justify-center items-center gap-2">
           <img src={logo} alt="logo" className="w-12" />
           <h1 className="text-stone-700 text-2xl font-black font-satoshi">
