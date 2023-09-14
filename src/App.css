@@ -79,11 +79,11 @@
   @apply mt-5 text-5xl font-extrabold leading-[1.15] text-black sm:text-6xl text-center;
 }
 
-.orange_gradient {
-  @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;
+.pink_gradient {
+  @apply bg-gradient-to-r from-amber-500 via-rose-400 to-yellow-500 bg-clip-text text-transparent;
 }
 
-.desc {
+.description {
   @apply mt-5 text-lg text-gray-600 sm:text-xl text-center max-w-2xl;
 }
 
@@ -92,7 +92,7 @@
 }
 
 .submit_btn {
-  @apply hover:border-gray-700 hover:text-gray-700 absolute inset-y-0 right-0 my-1.5 mr-1.5 flex w-10 items-center justify-center rounded border border-gray-200 font-sans text-sm font-medium text-gray-400;
+  @apply hover:border-gray-700 hover:text-gray-700 absolute inset-y-0 right-0 my-1.5 mr-1.5 flex w-10 items-center justify-center rounded border border-gray-200 font-sans text-lg font-medium text-gray-400;
 }
 
 .link_card {
