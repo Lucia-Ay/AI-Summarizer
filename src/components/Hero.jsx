@@ -26,7 +26,7 @@ const Hero = () => {
         <span className='pink_gradient'>OpenAI GPT-3.5</span>
       </h1>
       <h2 className='description'>
-        Simplify your reading with SUMZ, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
+        Simplify your reading with SUMZ, an article summarizer that transforms lengthy articles into clear and concise summaries.
       </h2>
     </header>
   );
